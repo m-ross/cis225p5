@@ -1,0 +1,1 @@
+This program takes a hard coded initial value for a wholesale price, then, for ten iterations, adds 25 to it, calculates a markup amount, calculates a retail price, calculates a discount amount, calculates a sale price and displays all said values. After the last iteration, it displays the sum of values for each type of price.
